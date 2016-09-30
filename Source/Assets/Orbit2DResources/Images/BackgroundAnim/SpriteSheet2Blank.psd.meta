@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: faec4733996726a41b12e0b41f062f48
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteSheet2Blank_1
+    21300002: SpriteSheet2Blank_2
+    21300004: SpriteSheet2Blank_3
+    21300006: SpriteSheet2Blank_4
+    21300008: SpriteSheet2Blank_5
+    21300010: SpriteSheet2Blank_6
+    21300012: SpriteSheet2Blank_7
+    21300014: SpriteSheet2Blank_8
+    21300016: SpriteSheet2Blank_9
+    21300018: SpriteSheet2Blank_10
+    21300020: SpriteSheet2Blank_11
+    21300022: SpriteSheet2Blank_12
+    21300024: SpriteSheet2Blank_13
+    21300026: SpriteSheet2Blank_14
+    21300028: SpriteSheet2Blank_15
+    21300030: SpriteSheet2Blank_16
+    21300032: SpriteSheet2Blank_17
+    21300034: SpriteSheet2Blank_0
+    21300036: SpriteSheet2Blank_18
+    21300038: SpriteSheet2Blank_19
+    21300040: SpriteSheet2Blank_20
+    21300042: SpriteSheet2Blank_21
+    21300044: SpriteSheet2Blank_22
+    21300046: SpriteSheet2Blank_23
+    21300048: SpriteSheet2Blank_24
+    21300050: SpriteSheet2Blank_25
+    21300052: SpriteSheet2Blank_26
+    21300054: SpriteSheet2Blank_27
+    21300056: SpriteSheet2Blank_28
+    21300058: SpriteSheet2Blank_29
+    21300060: SpriteSheet2Blank_30
+    21300062: SpriteSheet2Blank_31
+    21300064: SpriteSheet2Blank_32
+    21300066: SpriteSheet2Blank_33
+    21300068: SpriteSheet2Blank_34
+    21300070: SpriteSheet2Blank_35
+    21300072: SpriteSheet2Blank_36
+    21300074: SpriteSheet2Blank_37
+    21300076: SpriteSheet2Blank_38
+    21300078: SpriteSheet2Blank_39
+    21300080: SpriteSheet2Blank_40
+    21300082: SpriteSheet2Blank_41
+    21300084: SpriteSheet2Blank_42
+    21300086: SpriteSheet2Blank_43
+    21300088: SpriteSheet2Blank_44
+    21300090: SpriteSheet2Blank_45
+    21300092: SpriteSheet2Blank_46
+    21300094: SpriteSheet2Blank_47
+    21300096: SpriteSheet2Blank_48
+    21300098: SpriteSheet2Blank_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 256
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: SpriteSheet2Blank_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3773
+        width: 293
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3773
+        width: 293
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_3
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 3773
+        width: 293
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_4
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3773
+        width: 293
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_5
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 3773
+        width: 293
+        height: 510
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_6
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 3773
+        width: 292
+        height: 510
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_7
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 3779
+        width: 293
+        height: 507
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_8
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 3773
+        width: 293
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_9
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 3773
+        width: 292
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_10
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 3773
+        width: 299
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_11
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 3773
+        width: 293
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_12
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 3773
+        width: 293
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_13
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 3773
+        width: 293
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_14
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 3773
+        width: 293
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_15
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 3773
+        width: 290
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3163
+        width: 290
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3163
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_0
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3163
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_18
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 3163
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3163
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_20
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 3163
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_21
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 3163
+        width: 292
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_22
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 3163
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_23
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 3163
+        width: 292
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_24
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 3163
+        width: 299
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_25
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 3163
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_26
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 3163
+        width: 298
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_27
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 3163
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_28
+      rect:
+        serializedVersion: 2
+        x: 5347
+        y: 3187
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_29
+      rect:
+        serializedVersion: 2
+        x: 5739
+        y: 3187
+        width: 261
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2589
+        width: 284
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2589
+        width: 293
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_32
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2600
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_33
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2600
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_34
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2600
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_35
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 2600
+        width: 288
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_36
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 2589
+        width: 292
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_37
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 2600
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_38
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2571
+        width: 293
+        height: 522
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_39
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 2571
+        width: 292
+        height: 522
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_40
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 2571
+        width: 299
+        height: 522
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_41
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 2589
+        width: 293
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_42
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 2589
+        width: 298
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_43
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1979
+        width: 290
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_44
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1979
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_45
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1979
+        width: 292
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_46
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 1979
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_47
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1979
+        width: 293
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_48
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 1979
+        width: 292
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet2Blank_49
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 1979
+        width: 299
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

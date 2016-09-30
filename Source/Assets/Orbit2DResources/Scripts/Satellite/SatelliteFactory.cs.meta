@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d460d2fcec2bcf346bee6a1bcc6ce276
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SatelliteModel1: {fileID: 196478, guid: 94ff3821f677c534e8ddde6cf42550b2, type: 2}
+  - SatelliteModel2: {fileID: 147908, guid: 0bbd25dd63e691b409ca976448f85083, type: 2}
+  - SatelliteModel3: {fileID: 136172, guid: dcc417f6109d12a42b88820ebfa5489d, type: 2}
+  - SatelliteModel4: {fileID: 139804, guid: 3d9f6feb7c6eccd42b6e3b6216ae9ae6, type: 2}
+  - Quad: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

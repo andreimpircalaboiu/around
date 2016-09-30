@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: 92405d9deb0b83b41a6d115d0a55df68
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteSheet Final_0
+    21300002: SpriteSheet Final_1
+    21300004: SpriteSheet Final_2
+    21300006: SpriteSheet Final_3
+    21300008: SpriteSheet Final_4
+    21300010: SpriteSheet Final_5
+    21300012: SpriteSheet Final_6
+    21300014: SpriteSheet Final_7
+    21300016: SpriteSheet Final_8
+    21300018: SpriteSheet Final_9
+    21300020: SpriteSheet Final_10
+    21300022: SpriteSheet Final_11
+    21300024: SpriteSheet Final_12
+    21300026: SpriteSheet Final_13
+    21300028: SpriteSheet Final_14
+    21300030: SpriteSheet Final_15
+    21300032: SpriteSheet Final_16
+    21300034: SpriteSheet Final_17
+    21300036: SpriteSheet Final_18
+    21300038: SpriteSheet Final_19
+    21300040: SpriteSheet Final_20
+    21300042: SpriteSheet Final_21
+    21300044: SpriteSheet Final_22
+    21300046: SpriteSheet Final_23
+    21300048: SpriteSheet Final_24
+    21300050: SpriteSheet Final_25
+    21300052: SpriteSheet Final_26
+    21300054: SpriteSheet Final_27
+    21300056: SpriteSheet Final_28
+    21300058: SpriteSheet Final_29
+    21300060: SpriteSheet Final_30
+    21300062: SpriteSheet Final_31
+    21300064: SpriteSheet Final_32
+    21300066: SpriteSheet Final_33
+    21300068: SpriteSheet Final_34
+    21300070: SpriteSheet Final_35
+    21300072: SpriteSheet Final_36
+    21300074: SpriteSheet Final_37
+    21300076: SpriteSheet Final_38
+    21300078: SpriteSheet Final_39
+    21300080: SpriteSheet Final_40
+    21300082: SpriteSheet Final_41
+    21300084: SpriteSheet Final_42
+    21300086: SpriteSheet Final_43
+    21300088: SpriteSheet Final_44
+    21300090: SpriteSheet Final_45
+    21300092: SpriteSheet Final_46
+    21300094: SpriteSheet Final_47
+    21300096: SpriteSheet Final_48
+    21300098: SpriteSheet Final_49
+    21300100: SpriteSheet Final_50
+    21300102: SpriteSheet Final_51
+    21300104: SpriteSheet Final_52
+    21300106: SpriteSheet Final_53
+    21300108: SpriteSheet Final_54
+    21300110: SpriteSheet Final_55
+    21300112: SpriteSheet Final_56
+    21300114: SpriteSheet Final_57
+    21300116: SpriteSheet Final_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: SpriteSheet Final_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1686
+        width: 177
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1690
+        width: 172
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1702
+        width: 169
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_3
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1706
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1716
+        width: 165
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_5
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1710
+        width: 170
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_6
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1731
+        width: 159
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_7
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1735
+        width: 151
+        height: 277
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_8
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1730
+        width: 157
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1326
+        width: 181
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1337
+        width: 169
+        height: 310
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1323
+        width: 179
+        height: 323
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_12
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1343
+        width: 170
+        height: 305
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1318
+        width: 183
+        height: 328
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_14
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1365
+        width: 156
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_15
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1348
+        width: 167
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_16
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1354
+        width: 167
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_17
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1356
+        width: 167
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 979
+        width: 167
+        height: 302
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 980
+        width: 169
+        height: 298
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_20
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 974
+        width: 170
+        height: 304
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_21
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 977
+        width: 169
+        height: 305
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_22
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 985
+        width: 164
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_23
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 984
+        width: 164
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_24
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 968
+        width: 182
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_25
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 994
+        width: 162
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_26
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1033
+        width: 137
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 720
+        width: 118
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 725
+        width: 116
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 754
+        width: 98
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 109
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 736
+        width: 100
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_32
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 733
+        width: 101
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_33
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 734
+        width: 103
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_34
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 710
+        width: 118
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_35
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 742
+        width: 89
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_36
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 710
+        width: 118
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_37
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 667
+        width: 142
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_38
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 723
+        width: 106
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_39
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 658
+        width: 145
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_40
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 695
+        width: 120
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 445
+        width: 139
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 453
+        width: 131
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 438
+        width: 140
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_44
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 453
+        width: 128
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_45
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 470
+        width: 123
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_46
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 452
+        width: 132
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_47
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 482
+        width: 110
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_48
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 375
+        width: 161
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_49
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 388
+        width: 146
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_50
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 385
+        width: 155
+        height: 269
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_51
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 371
+        width: 156
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 171
+        width: 118
+        height: 215
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 170
+        width: 124
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 174
+        width: 123
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_55
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 161
+        width: 126
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_56
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 140
+        width: 133
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_57
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 162
+        width: 133
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet Final_58
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 114
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

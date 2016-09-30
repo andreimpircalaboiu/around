@@ -1,0 +1,36 @@
+C:\Users\Andrei\Documents\Orbit2DGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Andrei\Documents\Orbit2DGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Andrei\Documents\Orbit2DGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Andrei\Documents\Orbit2DGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Andrei\Documents\Orbit2DGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Andrei\Documents\Orbit2DGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Andrei\Documents\Orbit2DGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Andrei\Documents\Orbit2DGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Andrei\Documents\Orbit2DGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Andrei\Documents\Orbit2DGame\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Andrei\Documents\Orbit2DGame\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Andrei\Documents\Orbit2DGame\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.1\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Andrei\Desktop\Orbit2DGame 0.41\Orbit2DGame 0.4\obj\Debug\Assembly-CSharp-firstpass.pdb

@@ -56,21 +56,14 @@ public class Paused : MonoBehaviour
         }
         Pause();
         ChangePlayer();
-
-
-
-
     }
 
     private void Pause()
     {
         if (Banner.IsLoaded())
             PauseWithBanner();
-
         else
             PauseWithoutBanner();
-
-
     }
 
     private void PauseWithBanner()
@@ -87,7 +80,6 @@ public class Paused : MonoBehaviour
             playOrPause = !playOrPause;
             Banner.HideBanner();
         }
-        //vezi ca iti intra in ambele if-uri cand ii dai unpause 
 
         if (Input.touchCount > 0 && pauseBtn2.Contains(Input.GetTouch(0).position) &&
         Input.GetTouch(0).phase == TouchPhase.Ended && pauseCanv.enabled == false)
@@ -102,7 +94,6 @@ public class Paused : MonoBehaviour
             Time.timeScale = 0;
             playOrPause = !playOrPause;
             Banner.ShowBanner();
-
         }
     }
 
@@ -123,7 +114,6 @@ public class Paused : MonoBehaviour
                 playOrPause = !playOrPause;
                 Banner.HideBanner();
             }
-
         }
         else
         {
@@ -131,7 +121,6 @@ public class Paused : MonoBehaviour
             Input.GetTouch(0).phase == TouchPhase.Ended && pauseCanv.enabled == false)
             //if (Input.GetMouseButtonUp(0) && pauseBtn2.Contains(Input.mousePosition))
             {
-
             //    Debug.Log("Pause Without Banner");
                 pauseCanv.enabled = true;
                 pause1.SetActive(false);
@@ -141,7 +130,6 @@ public class Paused : MonoBehaviour
                 Time.timeScale = 0;
                 playOrPause = !playOrPause;
                 Banner.ShowBanner();
-
             }
         }
     }
@@ -168,7 +156,6 @@ public class Paused : MonoBehaviour
 
     public void ScriptsDisabled()
     {
-
         script1.enabled = false;
         script2.enabled = false;
         script3.enabled = false;
@@ -186,6 +173,4 @@ public class Paused : MonoBehaviour
         script6.enabled = true;
 
     }
-
-
 }

@@ -10,9 +10,9 @@ public class PlayerSelect : MonoBehaviour
     public Canvas nextCanvas;
     public Image firstImage;
     public AudioSource pow;
+
     void Awake()
     {
-
         if (Banner.BannerIsLoaded)
         {
             Banner.DestroyBanner();
@@ -20,13 +20,14 @@ public class PlayerSelect : MonoBehaviour
         }
         Banner.RequestBanner();
     }
+
     void Start()
     {
         _play.center = new Vector2(Screen.width / 2 - Screen.width / 14, Screen.height / 2 - Screen.width / 14 * 4);
         _play.height = Screen.width / 7 + Screen.width / 14;
         _play.width = Screen.width / 7 + Screen.width / 14;
-        _tutorialRect.width = Screen.width / 6 + Screen.width / 12;
-        _tutorialRect.height = 3 * Screen.height / 18;
+        _tutorialRect.width =3* (float)Screen.width / 6;
+        _tutorialRect.height = (float)Screen.height / 3;
         _tutorialRect.center = new Vector2(2, 2);
         nextCanvas.enabled = false;
         nextCanvas.active = false;

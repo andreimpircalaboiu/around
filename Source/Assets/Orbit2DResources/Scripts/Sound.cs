@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class Sound : MonoBehaviour
 {
-    private Rect soundONOff;
+    private Rect soundOnOff;
     public Sprite soundOn, soundOff;
     private string isOn = "true";
     public Image bla;
@@ -38,9 +38,9 @@ public class Sound : MonoBehaviour
                     isOn = "false";
                 }
         
-        soundONOff.width = Screen.width / 6;
-        soundONOff.height = 3*Screen.height / 18;
-        soundONOff.center = new Vector2(11*Screen.width/12, 2);
+        soundOnOff.width = (float)Screen.width / 3;
+        soundOnOff.height = 3*(float)Screen.height / 9;
+        soundOnOff.center = new Vector2(11*(float)Screen.width/12, 2);
              
     }
 
@@ -49,8 +49,8 @@ public class Sound : MonoBehaviour
     {
         //if (Input.GetMouseButtonDown(0))
 
-        //    if (Input.GetMouseButtonDown(0) && soundONOff.Contains(Input.mousePosition))
-                if (Input.touchCount > 0 && soundONOff.Contains(Input.GetTouch(0).position)&& Input.GetTouch(0).phase==TouchPhase.Ended)
+        //    if (Input.GetMouseButtonDown(0) && soundOnOff.Contains(Input.mousePosition))
+                if (Input.touchCount > 0 && soundOnOff.Contains(Input.GetTouch(0).position)&& Input.GetTouch(0).phase==TouchPhase.Ended)
                 {
 
 

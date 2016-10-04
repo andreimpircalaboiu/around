@@ -1,9 +1,9 @@
 ﻿using System;
 using UnityEngine;
 using System.Collections;
+
 public class OrbitingObject : MonoBehaviour
 {
-
     private float OrbitDistance = OD2;
     private const float OD1 = 1.064f;
     private const float OD2 = 1.487f;
@@ -31,7 +31,6 @@ public class OrbitingObject : MonoBehaviour
     private const string name4 = "SatelliteModel4(Clone)";
     private bool IsFirstTime = true;
 
-
     // Use this for initialization
     void Awake()
     {
@@ -44,16 +43,10 @@ public class OrbitingObject : MonoBehaviour
                 Banner.InterstitialIsLoaded = false;
             }
             Banner.RequestInterstitial();
-
         }
-
-
-
-
     }
     void Start()
     {
-
         Banner.HideBanner();
         background = GameObject.Find("BackgroundAnim");
         anim = background.GetComponent<Animator>();
@@ -64,7 +57,6 @@ public class OrbitingObject : MonoBehaviour
         highScore = PlayerPrefs.GetInt(highScoreKey, 0);
         AudioListener.pause = Convert.ToBoolean(PlayerPrefs.GetString("sound", "false"));
     }
-
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -79,12 +71,10 @@ public class OrbitingObject : MonoBehaviour
             {
                 Banner.ShowInterstitial();
                 PlayerPrefs.SetInt("interstitial", 0);
-
             }
             else
             {
                 PlayerPrefs.SetInt("interstitial", PlayerPrefs.GetInt("interstitial", 0) + 1);
-
             }
 
             PlayerPrefs.Save();
@@ -99,7 +89,6 @@ public class OrbitingObject : MonoBehaviour
             // Keep us at orbitDistance from target
             this.transform.position = target.position + (transform.position - target.position).normalized * OrbitDistance;
             this.transform.RotateAround(target.position, Vector3.back, orbitDegreesPerSec * Time.deltaTime);
-
         }
     }
     // Update is called once per frame
@@ -108,7 +97,6 @@ public class OrbitingObject : MonoBehaviour
         if (IsFirstTime)
         {
             StartCoroutine(Wait());
-
         }
         else
         {
@@ -126,17 +114,14 @@ public class OrbitingObject : MonoBehaviour
                     {
                         Banner.ShowInterstitial();
                         PlayerPrefs.SetInt("interstitial", 0);
-
                     }
                     else
                     {
                         PlayerPrefs.SetInt("interstitial", PlayerPrefs.GetInt("interstitial", 0) + 1);
-
                     }
                     PlayerPrefs.Save();
                     Application.LoadLevel(2);
                 }
-
             }
             else
 
@@ -154,12 +139,10 @@ public class OrbitingObject : MonoBehaviour
                     {
                         Banner.ShowInterstitial();
                         PlayerPrefs.SetInt("interstitial", 0);
-
                     }
                     else
                     {
                         PlayerPrefs.SetInt("interstitial", PlayerPrefs.GetInt("interstitial", 0) + 1);
-
                     }
                     PlayerPrefs.Save();
                     Application.LoadLevel(2);
@@ -168,7 +151,6 @@ public class OrbitingObject : MonoBehaviour
 
             if (moved == true && anim.IsInTransition(0))
             {
-
                 if (Convert.ToInt32(scorer.scoreText.text) > highScore)
                 {
                     PlayerPrefs.SetInt(highScoreKey, Convert.ToInt32(scorer.scoreText.text));
@@ -183,7 +165,6 @@ public class OrbitingObject : MonoBehaviour
 
                 if (holdCount < TimeUntilHold && Input.GetTouch(0).phase == TouchPhase.Ended)
                 {
-
                     pow.Play();
                     SwitchTMovement();
                     makesound = true;
@@ -219,7 +200,6 @@ public class OrbitingObject : MonoBehaviour
         //(Input.GetTouch(0).phase == TouchPhase.Ended || Input.GetTouch(0).phase == TouchPhase.Canceled)
         if (moved == false && (OrbitDistance == OD3 || OrbitDistance == OD4))
         {
-
             OrbitDistance = OD4;
             moved = true;
             holdState = true;
@@ -228,14 +208,10 @@ public class OrbitingObject : MonoBehaviour
             {
                 anim.Play("OnSides", -1, float.NegativeInfinity);
                 AnimPlayed = true;
-
             }
-
         }
-        else
-        if (moved == false && (OrbitDistance == OD2 || OrbitDistance == OD1))
+        else if (moved == false && (OrbitDistance == OD2 || OrbitDistance == OD1))
         {
-
             OrbitDistance = OD1;
 
             holdState = true;
@@ -243,18 +219,14 @@ public class OrbitingObject : MonoBehaviour
             {
                 anim.Play("OnSides", -1, float.NegativeInfinity);
 
-
                 AnimPlayed = true;
-
             }
             Debug.Log(anim.IsInTransition(0));
 
             moved = true;
         }
-        else
-        if(OrbitDistance == OD4 && moved == true && Input.GetTouch(0).phase == TouchPhase.Ended)
+        else if(OrbitDistance == OD4 && moved == true && Input.GetTouch(0).phase == TouchPhase.Ended)
         {
-
             anim.Play("Normal", -1, float.NegativeInfinity);
             OrbitDistance = OD3;
             AnimPlayed = false;
@@ -265,7 +237,6 @@ public class OrbitingObject : MonoBehaviour
         else
         if (OrbitDistance == OD1 && moved == true && Input.GetTouch(0).phase == TouchPhase.Ended)
         {
-
             anim.Play("Normal", -1, float.NegativeInfinity);
             OrbitDistance = OD2;
             AnimPlayed = false;
@@ -273,8 +244,6 @@ public class OrbitingObject : MonoBehaviour
             holdState = false;
             holdCount = 0;
         }
-
-
     }
 
     private void SwitchTMovement()
@@ -293,6 +262,5 @@ public class OrbitingObject : MonoBehaviour
         }
         holdCount = 0;
     }
-
 }
 

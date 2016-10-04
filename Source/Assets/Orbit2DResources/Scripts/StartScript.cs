@@ -20,11 +20,9 @@ public class StartScript : MonoBehaviour {
 
     void Start () {
         ScriptsEnabled();
-        //RandomSpriteInit();
         StartCoroutine(Wait());
         Time.timeScale = 1;
         onAir.enabled = true;
-
 	}
    
  private IEnumerator Wait()
@@ -90,6 +88,5 @@ public class StartScript : MonoBehaviour {
         script5.enabled = true;
         script6.enabled = true;
         script7.enabled = true;
-
     }
 }

@@ -1,7 +1,4 @@
-﻿using System;
-using UnityEngine;
-using System.Collections;
-using System.Security.Cryptography.X509Certificates;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class Tutorial : MonoBehaviour
@@ -44,17 +41,20 @@ public class Tutorial : MonoBehaviour
 
     void Update()
     {
-        
-        if (moveImagesBool == true && Time.realtimeSinceStartup >= timestamp)
+
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-           
+            Application.LoadLevel(0);
+        }
+
+        if (moveImagesBool == true && Time.realtimeSinceStartup >= timestamp)
+        {           
             MoveImages();
             timestamp = Time.realtimeSinceStartup + 0.4f;
         }
         if (Input.touchCount > 0 && rightArrow.Contains(Input.GetTouch(0).position)&& Input.GetTouch(0).phase == TouchPhase.Ended)
         //if (Input.GetMouseButtonDown(0) && rightArrow.Contains(Input.mousePosition))
         {
-
             clicked = true;
             if ( currentImageString == fourthImage.name && clicked == true)
             {
@@ -75,8 +75,7 @@ public class Tutorial : MonoBehaviour
                 currentImageString = fourthImage.name;
                 fourthImage.active = true;
                 thirdImage.active = false;
-
-
+                
             }
 
             if ( (currentImageString == secondImageA.name || currentImageString == secondImageB.name) && clicked == true)
@@ -87,7 +86,6 @@ public class Tutorial : MonoBehaviour
                 secondImageA.active = false;
                 secondImageB.active = false;
                 moveImagesBool = false;
-
 
             }
 
@@ -102,7 +100,6 @@ public class Tutorial : MonoBehaviour
                 timestamp = 0f;
 
             }
-
         }
         if (Input.touchCount > 0 && leftArrow.Contains(Input.GetTouch(0).position) && Input.GetTouch(0).phase == TouchPhase.Ended)
         //if (Input.GetMouseButtonDown(0) && leftArrow.Contains(Input.mousePosition))
@@ -141,7 +138,6 @@ public class Tutorial : MonoBehaviour
                 secondImageB.active = false;
                 moveImagesBool = true;
                 timestamp = 0f;
-
 
             }
 
